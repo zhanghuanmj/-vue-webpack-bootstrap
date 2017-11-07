@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/**
+ * author: zhanghuan
+ * created: 2017/11/4
+ * describe: 公共头部
+ */
+@import "Var";
+
+#header{
+  height: 60px;
+  background-color: $headerClr;
+}
+
+#side-menu-btn{
+  display: none;
+  margin-top: 12px;
+}
